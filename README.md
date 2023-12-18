@@ -1,6 +1,6 @@
 # Recursion Exercise
 
-### Functions
+### Functions:
 ###### product(nums)
 - calculate the product of an array of numbers
 
